@@ -2,7 +2,7 @@
   "name": "r_c_v",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rishav1802.github.io/r_c_v"
+  "homepage": "http://rishav1802.github.io/r_c_v",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
