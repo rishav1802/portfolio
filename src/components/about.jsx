@@ -61,7 +61,7 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Research and Enginnering</h3>
+                    <h3>Research and Engineering</h3>
                     <p>I have worked with projects using Data Science and Backend during my coursework. I worked and researched under AOssie's Social Street Smart as an openSource Contributor. 
                           </p>
                     
