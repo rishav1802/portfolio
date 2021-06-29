@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am an IT student from the IPG Course at IIIT-Gwl. I was born in Muzaffarpur, a city located in Bihar. I did the major part of my schooling from Ranchi, Jharkhand. Currently I am living in Saket, Delhi. </p>
+                    <p> Integrated Post Graduate in Information Technology from Atal Bihari Vajpayee Indian Institute of Information Technology and Management Gwalior.  </p>
                     <p> </p>
                     </div>
                 </div>
@@ -37,8 +37,10 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building web applications and chrome extentions using JavaScript,HTML,CSS. I am studying React .</p>
+                    <h3> Development </h3>
+                    <p> I am a full stack development enthusiast. For the Front-End or client I have developed projects with Html, Css, React, for the backend or server side I have used NodeJS, Express, Python, Flask and Serverless, for database I have used MongoDB atlas, Sqlite. 
+                     </p>
+                    <p></p>
                 </div>
                 </div>
             </div>
@@ -49,7 +51,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <p>As coming from the Information Technology background, I have good grasp over fundamental concepts of Data Structures and Algorithm concepts. I am proficient at Coding in C++. </p>
                 </div>
                 </div>
             </div>
@@ -59,8 +61,9 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Data Science</h3>
-                    <p>I have experience working with python. I worked as a freelance under AOSSIE organisation and worked with tools like tensorflow, tensorflow lite</p>
+                    <h3>Research and Enginnering</h3>
+                    <p>I have worked with projects using Data Science and Backend during my coursework. I worked and researched under AOssie's Social Street Smart as an openSource Contributor. 
+                          </p>
                     
                 </div>
                 </div>

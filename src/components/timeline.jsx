@@ -22,8 +22,19 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Integrated Post Graduation at IIIT-Gwl<span>2016-2021</span></h2>
-                        <p>I am currently in my final year of the IPG Course and during my course projects I have worked with machine learning, OpenSource projects and have undertaken courses like Oops, Data Strucures, IOT, Computer Networks Artificial Intelligence, DataBase Management System, System Analysis and Design and have good grasp over these subjects. </p>
+                        <h2>M.Tech at IIIT-Gwl <span>2020-2021</span></h2>
+                        <p> I did my Integrated Mtech undertaking courses like IOT. For my MTech project I did my research thesis on Deep Dream, a computer generated art form. It uses deep learning to produce halucogenic effects on a given image. I studied the effects of activating different layers of CNN on a given image. I developed an api for the same which takes in the image as input and generates the dreamified output image.  </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>B.Tech at IIIT-Gwl <span>2016-2020</span></h2>
+                        <p>I am currently in my final year of the IPG Course and during my course projects I have worked with machine learning, OpenSource projects and have undertaken courses like Oops, Data Strucures, IOT, Computer Networks Artificial Intelligence, DataBase Management System, System Analysis and Design and have good grasp over these subjects. I have done competitive coding on sites like Codechef, Leetcode, Spoj, Hackerrank, hackerearth, Interviewbit. I did my Btech research thesis on a novel approach to Gender detection using Fingerprint. It involved using IOT for fingerprint collection, Matlab for processing the dataset and extracting significant minutiae features from the fingerprint. Finally i used Image Processing, OpenCv and machine learning for predicting gender of a person based on the fingerprint. </p>
                       </div>
                     </div>
                   </article>
