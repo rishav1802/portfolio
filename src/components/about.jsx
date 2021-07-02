@@ -108,6 +108,6 @@ export default class About extends Component {
         </div>
         </section>
       </div>
-    )
+    
   }
 }
