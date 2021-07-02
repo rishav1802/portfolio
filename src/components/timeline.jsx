@@ -23,7 +23,10 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>M.Tech at IIIT-Gwl <span>2020-2021</span></h2>
-                        <p> I did my Integrated Mtech undertaking courses like IOT. For my MTech project I did my research thesis on Deep Dream, a computer generated art form. It uses deep learning to produce halucogenic effects on a given image. I studied the effects of activating different layers of CNN on a given image. I developed an api for the same which takes in the image as input and generates the dreamified output image.  </p>
+                        <p> I did my Integrated Mtech undertaking courses like Game Theory and Internet Of Things. For my MTech project I did my research thesis on Deep Dream, a computer generated art form. It uses deep learning to produce halucogenic effects on a given image. In layman terms we can think about it like
+                        staring at clouds and seeing patterns or images, a phenomenon known as ’Pareidolia’. DeepDream
+                        does the same thing by enhancing patterns it sees in a given image based on what it has been
+                        trained to see in the past. I studied the effects of activating different layers of CNN on a given image. I developed an api for the same which takes in an image as input and generates the dreamified output image.  </p>
                       </div>
                     </div>
                   </article>
@@ -34,7 +37,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>B.Tech at IIIT-Gwl <span>2016-2020</span></h2>
-                        <p>I am currently in my final year of the IPG Course and during my course projects I have worked with machine learning, OpenSource projects and have undertaken courses like Oops, Data Strucures, IOT, Computer Networks Artificial Intelligence, DataBase Management System, System Analysis and Design and have good grasp over these subjects. I have done competitive coding on sites like Codechef, Leetcode, Spoj, Hackerrank, hackerearth, Interviewbit. I did my Btech research thesis on a novel approach to Gender detection using Fingerprint. It involved using IOT for fingerprint collection, Matlab for processing the dataset and extracting significant minutiae features from the fingerprint. Finally i used Image Processing, OpenCv and machine learning for predicting gender of a person based on the fingerprint. </p>
+                        <p>I am currently in my final year of the IPG Course and during my course projects I have worked with machine learning, OpenSource projects and have undertaken courses like Oops, Data Strucures, IOT, Computer Networks Artificial Intelligence, DataBase Management System, System Analysis and Design and have good grasp over these subjects. I have done competitive coding on sites like Codechef, Leetcode, Spoj, Hackerrank, hackerearth, Interviewbit. I did my Btech research thesis on a novel approach to Gender detection using Fingerprint. It involved using sensors for fingerprint collection, Matlab for processing the dataset and extracting significant fingerprint features(minutiae patterns) from the fingerprint. Finally i used Image Processing, OpenCV and machine learning for predicting gender of a person based on the fingerprint. </p>
                       </div>
                     </div>
                   </article>
@@ -45,7 +48,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths and CS in c++ as extra with 91 percentage. During my time at school, I have developed interest in solving complex problems of mathematics including Permutation and Combination, Aptitude and Reasoning. <br />  I completed my Primary Education from an ICSE School, St. Thomas Ranchi with 94.2 percentage.  </p> 
+                        <p>I have completed my higher secondary education from Delhi Public School, Ranchi with Physics,Chemistry & Maths and CS in c++ as extra with 91 percentage.  <br />  I completed my Primary Education from St. Thomas, Ranchi, an ICSE School, St. Thomas Ranchi with 94.2 percentage.  </p> 
                       </div>
                     </div>
                   </article>
