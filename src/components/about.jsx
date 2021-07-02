@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 export default class About extends Component {
   render() {
-    return (
+    return 
       <div>
         <section className="colorlib-about" data-section="about">
         <div className="colorlib-narrow-content">
@@ -63,8 +63,8 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>Research and Engineering</h3>
                     <p>I have worked with projects using Data Science and Backend during my coursework. During the summer of 2020 I researched under AOSSIE, an organisation under GSOC. I worked and contributed with a project entitled Social Street Smart. With the advent of Internet, the problems faced by the people have also grown. These include abusive languages, fake news articles, click-baits, malicious websites and security attacks. Social Street Smart is a chrome extension which aims at making Internet a safer and more productive service for the users. The chrome extension uses different Api's for detecting the above mentioned problems.
-                    <a href = 
-                          </p>
+                    
+                    </p>
                     
                 </div>
                 </div>
