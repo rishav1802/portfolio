@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3> Development </h3>
-                    <p> I am a full stack development enthusiast. For the Front-End or client I have developed projects with Html, Css, React, for the backend or server side I have used NodeJS, Express, Python, Flask and Serverless, for database I have used MongoDB atlas, Sqlite. 
+                    <p> I am a full stack development enthusiast. For the Front-End or client I have developed projects with Html, Css, React, for the backend or server side I have used NodeJS, Express, Python, Flask and Serverless, for database I have used MongoDB atlas, Sqlite. I use Freecodecamp for learning about fullstack development. I have developed projects using the MERN Stack and I have a hunger to learn more about fullstack development.
                      </p>
                     <p></p>
                 </div>
@@ -51,7 +51,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the Information Technology background, I have good grasp over fundamental concepts of Data Structures and Algorithm concepts. I am proficient at Coding in C++. </p>
+                    <p>As coming from the Information Technology background, I have good grasp over fundamental concepts of Data Structures and Algorithm concepts. I am proficient at Coding in C++. I practice coding on Interviewbit, GeeksforGeeks, Leetcode, HAckerrank . </p>
                 </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Research and Engineering</h3>
-                    <p>I have worked with projects using Data Science and Backend during my coursework. During the summer of 2020 I researched under AOSSIE, an organisation under GSOC. I worked and contributed with a project entitled Social Street Smart. With the advent of Internet, the problems faced by the people have also grown. These include abusive languages, fake news articles, click-baits, malicious websites and security attacks. Social Street Smart is a chrome extension which aims at making Internet a safer and more productive service for the users. The chrome extension uses different Api's for detecting the above mentioned problems.
+                    <p> I researched and contributed with an Opensource project entitled Social Street Smart under AOSSIE. With the advent of Internet, the problems faced by the people have also grown. These include abusive languages, fake news articles, click-baits, malicious websites and security attacks. Social Street Smart is a chrome extension which aims at making Internet a safer and more productive service for the users. The chrome extension uses different Api's for detecting the above mentioned problems. I worked with python, Data Science and different Cloud services.
                     
                     </p>
                     
