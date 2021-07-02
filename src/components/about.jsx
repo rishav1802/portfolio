@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 export default class About extends Component {
   render() {
-    return 
+    return (
       <div>
         <section className="colorlib-about" data-section="about">
         <div className="colorlib-narrow-content">
@@ -103,11 +103,11 @@ export default class About extends Component {
                 </div>
                 </div>
             </div>
-            */}
+            // */}
             </div>
         </div>
         </section>
       </div>
-    
+    )
   }
 }
