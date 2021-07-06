@@ -62,7 +62,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Research and Engineering</h3>
-                    <p> I researched and contributed with an Opensource project entitled Social Street Smart under AOSSIE. With the advent of Internet, the problems faced by the people have also grown. These include abusive languages, fake news articles, click-baits, malicious websites and security attacks. Social Street Smart is a chrome extension which aims at making Internet a safer and more productive service for the users. The chrome extension uses different Api's for detecting the above mentioned problems. I worked with python, Data Science and different Cloud services.
+                    <p> B.tech and M.tech in Information Technology from IIIT-Gwl. I also researched under a GSOC umbrella organisation AOSSIE. With the advent of Internet, the problems faced by the people have also grown. These include abusive languages, fake news articles, click-baits, malicious websites and security attacks. Social Street Smart is a chrome extension which aims at making Internet a safer and more productive service for the users. The chrome extension uses different Api's for detecting the above mentioned problems. I worked with python, Data Science and different Cloud services.
                     
                     </p>
                     
