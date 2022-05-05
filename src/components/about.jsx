@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p> Integrated Post Graduate in Information Technology from Atal Bihari Vajpayee Indian Institute of Information Technology and Management Gwalior.  </p>
+                    <p> Integrated Post Graduate from Indian Institute of Information Technology and Management Gwalior.  </p>
                     <p> </p>
                     </div>
                 </div>
@@ -37,9 +37,9 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3> Development </h3>
-                    <p> I am a full stack development enthusiast. For the Front-End or client I have developed projects with Html, Css, React, for the backend or server side I have used NodeJS, Express, Python, Flask and Serverless, for database I have used MongoDB atlas, Sqlite. I use Freecodecamp for learning about fullstack development. I have developed projects using the MERN Stack and I have a hunger to learn more about fullstack development.
-                     </p>
+                    <h3> Self Learning Software Development projects </h3>
+                    <p> For the Front-End or client I have worked on projects with Html, Css, React, for the backend or server side I have worked on NodeJS, JavaScript, Express, Python, Flask and Serverless, for database I have used MongoDB atlas, Sqlite. I have developed projects using the MERN Stack and I have a hunger to learn more about fullstack development.
+                     . I refer to stackOverflow if i have to know about an issue.</p>
                     <p></p>
                 </div>
                 </div>
@@ -50,8 +50,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the Information Technology background, I have good grasp over fundamental concepts of Data Structures and Algorithm concepts. I am proficient at Coding in C++. I practice coding on Interviewbit, GeeksforGeeks, Leetcode, HAckerrank . </p>
+                    <h3>Data Structures</h3>
+                    <p>Coming from  Computer Science and Information Technology background, I have good grasp over fundamental concepts of Data Structures and Algorithm concepts. I am proficient at Coding in C++. I practice coding on Spoj, HackerRank, Interviewbit, HAckerEarth, Leetcode, GeeksforGeeks . </p>
                 </div>
                 </div>
             </div>
@@ -61,12 +61,14 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Research and Engineering</h3>
-                    <p> B.tech and M.tech in Information Technology from IIIT-Gwl. I also researched under a GSOC umbrella organisation AOSSIE. With the advent of Internet, the problems faced by the people have also grown. These include abusive languages, fake news articles, click-baits, malicious websites and security attacks. Social Street Smart is a chrome extension which aims at making Internet a safer and more productive service for the users. The chrome extension uses different Api's for detecting the above mentioned problems. I worked with python, Data Science and different Cloud services.
-                    
-                    </p>
-                    
+                    <h3>Research and Development at IIIT Gwalior</h3>
+                    <p> For my MTech project I did my research thesis on Deep Dream, a computer generated art form. It uses deep learning to produce halucogenic effects on a given image. In layman terms we can think about it like
+                        staring at clouds and seeing patterns or images, a phenomenon known as ’Pareidolia’.        I did my Btech research thesis on a fingerprint based Gender detection. It involved using sensors for fingerprint collection, Matlab for processing the dataset and extracting significant fingerprint features(minutiae patterns) from the fingerprint. Finally i used Image Processing, OpenCV and machine learning for predicting gender of a person based on the fingerprint. 
+                    </p>  
+                      
                 </div>
+                    
+                    
                 </div>
             </div>
             {/*
