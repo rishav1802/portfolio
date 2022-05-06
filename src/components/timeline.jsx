@@ -76,8 +76,19 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>B.Tech at IIIT-Gwl <span>2016-2020</span></h2>
-                        <p> I have worked with machine learning, Self learning projects on and have undertaken courses like Object Oriented Programing , Data Strucures and Algorithm, Internet Of Things, Computer Networks, Artificial Intelligence, DataBase Management System, System Analysis and Design and have good grasp over these subjects. I did my Btech research thesis on a novel approach to Gender detection using Fingerprint. It involved using sensors for fingerprint collection, Matlab for processing the dataset and extracting significant fingerprint features(minutiae patterns) from the fingerprint. Finally i used Image Processing, OpenCV and machine learning for predicting gender of a person based on the fingerprint. </p>
+                        <h2>B.Tech at IIIT-Gwl in Information Technology <span>2016-2020</span></h2>
+                        <p> I have worked with machine learning, Self learning projects on and have undertaken courses like Object Oriented Programing , Data Strucures and Algorithm, Internet Of Things, Computer Networks, Artificial Intelligence, DataBase Management System, System Analysis and Design and have good grasp over these subjects. I did my Btech research thesis on a fingerprint based Gender detection. It involved using sensors for fingerprint collection, Matlab for processing the dataset and extracting significant fingerprint features(minutiae patterns) from the fingerprint. Finally i used Image Processing, OpenCV and machine learning for predicting gender of a person based on the fingerprint. </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Joint Entrance Examination 2016 <span>2003-2015</span></h2>
+                        <p> I qualified JEE mains 2016 in Physics, Chemistry and Maths and my marks was 196 / 365 and my rank was 16438 in India. My JEE Advanced rank in India was 10,370 in PCM.</p> 
                       </div>
                     </div>
                   </article>
