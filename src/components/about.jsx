@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p> Integrated Post Graduate from Indian Institute of Information Technology and Management Gwalior.  </p>
+                    <p> Integrated Post Graduate from Atal Bihari Vajpayee Indian Institute of Information Technology and Management Gwalior. My parents live in Patna and I live in delhi. My current address is flat 9, property 95, Saidulajab near pir baba mandir, Westend marg, Landmark: Saket metro gate 2, 110030. </p>
                     <p> </p>
                     </div>
                 </div>
@@ -51,7 +51,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures</h3>
-                    <p>Coming from  Computer Science and Information Technology background, I have good grasp over fundamental concepts of Data Structures and Algorithm concepts. I am proficient at Coding in C++. I practice coding on Spoj, HackerRank, Interviewbit, HAckerEarth, Leetcode, GeeksforGeeks . </p>
+                    <p>Graduated in  Computer Science and Information Technology background, I have good grasp over fundamental concepts of Data Structures and Algorithm concepts. I am proficient at Coding in C++. I practice coding on Spoj, HackerRank, Interviewbit, HAckerEarth, Leetcode, GeeksforGeeks . </p>
                 </div>
                 </div>
             </div>

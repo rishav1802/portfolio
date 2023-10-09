@@ -25,10 +25,10 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://www.facebook.com/rishabh.kumar.1802/" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
-                <li><a href="https://www.instagram.com/_r_voyager/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                <li><a href="https://www.linkedin.com/in/rishav-kumar-632081148/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-                <li><a href="https://github.com/rishav1802" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+                <li><a href="https://www.facebook.com/rishav.k99/" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
+                <li><a href="https://www.instagram.com/__r_k__r__/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+                <li><a href="https://linkedin.com/in/rishav99/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+                <li><a href="https://github.com/rishavk99" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                 
               </ul>
             </nav>

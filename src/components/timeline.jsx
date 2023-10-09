@@ -16,13 +16,33 @@ export default class Timeline extends Component {
               <div className="col-md-12">
                 <div className="timeline-centered">
 
+
                 <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Rakuten India <span>2021</span></h2>
+                        <h2>Software Engineer at SplashLearn/StudyPad Inc. <span>2022-2023</span></h2>
+                        <p> Employed as a Software Engineer from July 2022 till December 2022 in Delhi/Gurgaon with a hybrid work model. At First I had to build blueprints of a Gmail like messaging system.
+                            I Learnt in detail about Java Programming language from tutorials point and videos on youtube. After that I learnt about the bsics of Spring Framework following online tutorials provided by the tech lead and other team members.
+                            For my first project I was provided with a sample thak you page in Zoho platform using deluge coding language. I had to fetch the referral code for each user from the databse and display it on the thank you page along with fixing the HTMl and UI.
+                            I fixed a few bugs on Zoho using deluge and then setup the codebase in java, Javascript, ruby on rails. Also setup the Tables /database. and access for staging and production.
+                            I fixed bugs in Java, Javascript. Tested the bugs on localhost, tables. Wrote
+                            database migrations. Deploy to staging and production url. Worked on Zoho platform to edit functionality in forms.
+                              Designed a messaging system to send notification on sms, slack or salesforce along with a senior developer. 
+                           </p>
+                      </div>
+                    </div>
+                  </article>
+
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Trainee Consultant at Rakuten India <span>2021-2022</span></h2>
                         <p> Worked as a Trainee Development engineer from July-November 2021. I analysed the issues using their testing/QA site called ATSSA.AI or Rakuten Sixth
                         Sense and worked on feature implementations and fixing bugs in frontend.
                           TechStack Used: React, Material UI, Javascript, ES6, HTML, Java, VSCode, IntelliJ IDEA  </p>
@@ -88,7 +108,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Joint Entrance Examination 2016 <span>2003-2015</span></h2>
-                        <p> I qualified JEE mains 2016 in Physics, Chemistry and Maths and my marks was 196 / 365 and my rank was 16438 in India. My JEE Advanced rank in India was 10,370 in PCM.</p> 
+                        <p> I qualified JEE mains in 2016 and score was 196 / 365 and my rank was 16438. My JEE Advanced 2016 rank was 10,370 .</p> 
                       </div>
                     </div>
                   </article>
