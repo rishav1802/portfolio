@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p> Integrated Post Graduate from Atal Bihari Vajpayee Indian Institute of Information Technology and Management Gwalior. My parents live in Patna and I live in delhi. My current address is flat 9, property 95, Saidulajab near pir baba mandir, Westend marg, Landmark: Saket metro gate 2, 110030. </p>
+                    <p> Integrated Post Graduate from Atal Bihari Vajpayee Indian Institute of Information Technology and Management Gwalior. I have worked with open source web development and as a software engineer. </p>
                     <p> </p>
                     </div>
                 </div>
