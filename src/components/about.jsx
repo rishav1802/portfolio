@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p> Integrated Post Graduate from Atal Bihari Vajpayee Indian Institute of Information Technology and Management Gwalior. I have worked with open source web development and as a software engineer. </p>
+                    <p> Integrated Post Graduate from Atal Bihari Vajpayee Indian Institute of Information Technology and Management Gwalior. My major contributions to the IT sector include open source web development and as a software developer/engineer. </p>
                     <p> </p>
                     </div>
                 </div>
@@ -38,8 +38,8 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3> Self Learning Software Development projects </h3>
-                    <p> For the Front-End or client I have worked on projects with Html, Css, React, for the backend or server side I have worked on NodeJS, JavaScript, Express, Python, Flask and Serverless, for database I have used MongoDB atlas, Sqlite. I have developed projects using the MERN Stack and I have a hunger to learn more about fullstack development.
-                     . I refer to stackOverflow if i have to know about an issue.</p>
+                    <p> For the Front-End or client I have used Html, Css, React, JSX for the backend or server side worked with Spring, Spring Boot, Java, NodeJS, JavaScript, Express, Python, Flask and Serverless and for database used MongoDB atlas, MySql, Postgresql. I have developed and made my contributions to projects using the MERN Stack and have a hunger to learn more about fullstack development.
+                     . StackOverflow or the documentation site is my goto web page if i have to know about a technical issue.</p>
                     <p></p>
                 </div>
                 </div>
@@ -51,7 +51,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures</h3>
-                    <p>Graduated in  Computer Science and Information Technology background, I have good grasp over fundamental concepts of Data Structures and Algorithm concepts. I am proficient at Coding in C++. I practice coding on Spoj, HackerRank, Interviewbit, HAckerEarth, Leetcode, GeeksforGeeks . </p>
+                    <p>Graduated in  Computer Science and Information Technology background, I have knowledge about Data Structures and Algorithm concepts. I practice coding on HackerRank, Interviewbit, HAckerEarth, Spoj, Leetcode, CodeChef, GeeksforGeeks . </p>
                 </div>
                 </div>
             </div>
@@ -62,8 +62,9 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Research and Development at IIIT Gwalior</h3>
-                    <p> For my MTech project I did my research thesis on Deep Dream, a computer generated art form. It uses deep learning to produce halucogenic effects on a given image. In layman terms we can think about it like
-                        staring at clouds and seeing patterns or images, a phenomenon known as ’Pareidolia’.        I did my Btech research thesis on a fingerprint based Gender detection. It involved using sensors for fingerprint collection, Matlab for processing the dataset and extracting significant fingerprint features(minutiae patterns) from the fingerprint. Finally i used Image Processing, OpenCV and machine learning for predicting gender of a person based on the fingerprint. 
+                    <p> For my MTech thesis I wrote a study about Deep Dream, a computer generated art form. It uses deep learning to produce halucogenic effects on a given image. In layman terms we can think about it like
+                        staring at clouds and seeing patterns or images, a phenomenon known as ’Pareidolia’.     
+                    I did my Btech research thesis on a novel approach to fingerprint based Gender detection. It involved using sensors for fingerprint collection, Matlab for processing the dataset and extracting significant fingerprint features(minutiae patterns) from the fingerprint. Finally we applied Image Processing, OpenCV and machine learning for predicting gender of a person based on the fingerprint. 
                     </p>  
                       
                 </div>
